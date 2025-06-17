@@ -5,10 +5,10 @@ let gaiola;
 let jogoEmAndamento = false; // Inicializa como false
 
 function preload(){
-  fundo = loadImage("imagens/agricultura.png");
-  doninha = loadImage("imagens/doninha.png");
-  milho = loadImage("imagens/milho.png");
-  gaiola = loadImage("imagens/gaiola.png");
+  fundo = loadImage("imagens/174577.jpg");
+  doninha = loadImage("imagens/images__1_-removebg-preview.png");
+  milho = loadImage("imagens/images.jpeg");
+  gaiola = loadImage("imagens/png-clipart-pump-action-firearm-calibre-12-shotgun-others-miscellaneous-angle-removebg-preview.png");
 }
 
 function setup() {
